@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\coryf\source\repos\ai_program2\ai_program2\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AI_Program2.vcxproj -> C:\Users\coryf\source\repos\AI_Program2\Debug\AI_Program2.exe

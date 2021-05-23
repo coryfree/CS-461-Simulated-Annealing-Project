@@ -1,0 +1,13 @@
+CS101A, Bingham, Flarsheim310, 3P
+CS101B, Bingham, Haag206, 11A
+CS201A, Hare, Royall204, 3P
+CS201B, Bingham, Katz209, 2P
+CS191A, Mitchell, Flarsheim310, 2P
+CS191B, Mitchell, Haag206, 10A
+CS291B, Hare, Katz209, 1P
+CS291A, Rao, Royall204, 4P
+CS303, Hare, Royall204, 10A
+CS341, Rao, Royall204, 1P
+CS449, Hare, Royall204, 12P
+CS461, Rao, Haag301, 3P
+Fitness Score: 276
