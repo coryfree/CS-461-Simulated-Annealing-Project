@@ -1,10 +1,10 @@
 # CS-461-Simulated-Annealing-Project
 
-Project Description
+## Project Description
 
 This program will generate an optimized class schedule using simulated annealing. Provided only simple conditions and their respective weights measured in integer values, we were expected to research the technique ourselves and implement it with whatever environment/language we were most comfortable with.
 
-Process Explained
+## Process Explained
 
 Simulated Annealing is a machine learning technique based on the cooling of metal in blacksmithing.
 
@@ -20,6 +20,6 @@ It will then make a single, random change to this state. If the fitness score of
 
 The temperature will decrease by the specified rate if 4000 attempts are made OR 400 successful attempts, those that result in taking a new state, are made. The program will terminate if 4000 attempts are made unsuccessfully OR the maximum temperature drops below the minimum temperature.
 
-Technologies & Languages Used
+## Technologies & Languages Used
 
 Visual Studio 2017, C++
